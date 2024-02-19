@@ -1,0 +1,5 @@
+I am interested in taking CMSC320, on top of it just being a requirement for my data science
+major, since I want to learn the basics of data science before I continue down my major.
+I have a basic knowledege of SQL and working with pandas, however do not really know as much
+as I want. By taking this course, I hope to learn more about what we are specifically looking
+for by anaylzing data and how to do this in a data science setting. 
